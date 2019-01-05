@@ -52,6 +52,17 @@ top（用户输入）劳模演员.html
 
 
 
+三：报表相关工具
+
+用户需要自行下载安装phantomjs以及wkhtmltopdf工具
+
+并且将bin文件的路径添加到计算机的环境变量中
+phantomjs用于将html文件转为png文件
+wkhtmltopdf用于将html文件转为pdf文件
+
+
+
+
 
 
 
