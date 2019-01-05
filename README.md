@@ -21,6 +21,10 @@
 top（用户输入）电影题材.html
 top（用户输入）劳模演员.html
 
+通过phantomjs将生成的html文件转为png格式保存在同一文件路径下
+
+通过pdfkit以及wkhtmltopdf工具将html文件转为pdf格式保存在同一文件路径下
+
 
 3.pygui.py：
 按照CSDN论坛提供的源代码调整参数（即窗口页面大小），生成了一个简单的可接受账户以及密码输入的图形界面
